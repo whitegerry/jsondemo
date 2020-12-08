@@ -1,7 +1,8 @@
 {
   "friends": [
     {
-      "group1": [
+      "name": "工作",
+      "items": [
         {
           "id": 1,
           "name": "Tom",
@@ -20,7 +21,8 @@
       ]
     },
     {
-      "group2": [
+      "name": "生活",
+      "items": [
         {
           "id": 1,
           "name": "Kate",
